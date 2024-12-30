@@ -56,3 +56,7 @@ Pharaoh's Path is a mobile application built using **Flutter** that serves as a 
 <p align="center"><img src="https://github.com/user-attachments/assets/8288e98d-be03-4b91-ae83-e2ad40b8ec0f"  alt="Favorits" height="844" width="431.38"/></p>
 <p align="center"><img src="https://github.com/user-attachments/assets/e0a83e18-d29b-476d-8cc9-0b8e4ef0efa5"  alt="Details" height="844" width="431.38"/></p>
 <p align="center"><img src="https://github.com/user-attachments/assets/73f7e86e-5ad6-4720-a9b8-550c2a498928"  alt="Profile" height="844" width="431.38"/></p>
+
+**Video**
+
+https://github.com/el-kady3zzat/PharaohPath/blob/master/Video.mp4
